@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-02-16T23:24:23.825-06:00
-  initializedAtString: 2020-02-16T23:24:23.825-06:00
+  lastUpdatedAtString: 2020-02-21T19:45:30.906-06:00
+  initializedAtString: 2020-02-21T19:45:30.906-06:00
   currentGitRemote:
     name: origin
-    url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
+    url: https://github.com/shikimx/unity-git-example.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: develop
+    tracking: origin/develop
   currentConfigBranch:
-    name: master
+    name: develop
     remote:
       name: origin
-      url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
-    trackingBranch: master
+      url: https://github.com/shikimx/unity-git-example.git
+    trackingBranch: Medical_room
   currentConfigRemote:
     name: origin
-    url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
+    url: https://github.com/shikimx/unity-git-example.git
   currentHead: 

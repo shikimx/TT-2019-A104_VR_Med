@@ -1,0 +1,3 @@
+﻿Operating Room - Stylized Props
+The OperatingRoom folder contains a models and prefabs folder. FBXs, materials, and textures are located in the models folder. Prebuilt prefabs for the models are included in the prefabs folder, which you can drag and drop into your scene.
+OperatingRoomExtras folder contains a scenes folder, and Standard Assets.  An example scene is included in the scenes folder demonstrating how the props can be used. The Example Scene requires Unity Standard Assets to be viewed properly.
