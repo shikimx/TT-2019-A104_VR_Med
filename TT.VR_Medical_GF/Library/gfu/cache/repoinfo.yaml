@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-02-23T16:05:05.443-06:00
-  initializedAtString: 2020-02-23T16:05:05.443-06:00
+  lastUpdatedAtString: 2020-02-25T19:28:27.102-06:00
+  initializedAtString: 2020-02-25T19:28:27.102-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: develop
-    tracking: 
+    tracking: origin/develop
   currentConfigBranch:
     name: develop
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
+    trackingBranch: develop
   currentConfigRemote:
     name: origin
     url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
