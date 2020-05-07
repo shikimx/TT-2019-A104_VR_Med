@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F0D10873-28DC-23F0-010F-4817999B19FA}</ProjectGuid>
+    <ProjectGuid>{5008D13D-B7A1-6086-34EB-C19F03598F4F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\Doxygen\DoxygenWindow.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\Editor\AudioImportPostProcessor.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\Editor\AudioManagerInspector.cs" />
      <Compile Include="Assets\Oculus\AudioManager\Scripts\Audio\Editor\MinMaxPropertyDrawer.cs" />
@@ -80,32 +81,34 @@
      <Compile Include="Assets\Oculus\Spatializer\editor\ONSPPropagationMaterialEditor.cs" />
      <Compile Include="Assets\Oculus\Spatializer\editor\ONSPPropagationSerializationManager.cs" />
      <Compile Include="Assets\Oculus\Spatializer\editor\ONSPReflectionCustomGUI.cs" />
+     <None Include="Assets\Editor\Doxygen\Resources\BaseDoxyfile.txt" />
+     <None Include="Assets\Editor\Doxygen\ReadMe.txt" />
  <Reference Include="Supyrb.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Supyrb.Editor.dll</HintPath>
  </Reference>
  <Reference Include="VRTK.Prefabs.Runtime">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/VRTK.Prefabs.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Zinnia.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Zinnia.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Zinnia.Runtime">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Zinnia.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -339,49 +342,49 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.14f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Api.45">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Logging">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Unity.45">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.UnityShim">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
  </Reference>
  <Reference Include="sfw.net">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="Malimbe.BehaviourStateRequirementMethod">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
  </Reference>
  <Reference Include="Malimbe.MemberChangeMethod">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
  </Reference>
  <Reference Include="Malimbe.MemberClearanceMethod">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
  </Reference>
  <Reference Include="Malimbe.PropertySerializationAttribute">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
  </Reference>
  <Reference Include="Malimbe.XmlDocumentationAttribute">
- <HintPath>F:/GitHub/unity-git-example/Escape Room Vertical Slice/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+ <HintPath>F:/Git/TT-2019-A104_VR_Med/TT.VR_Medical_GF/Library/PackageCache/io.extendreality.malimbe@9.6.1/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.14f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -740,15 +743,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{06E7D143-36D2-6AE4-08B0-CDC4B50F896C}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{99F24AF6-5FC5-F94E-69A7-87F94735CF27}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{3E8C37A0-A2D3-65DA-BC9C-640C7E6040FE}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+      <Project>{A22BE2DC-FDAE-6285-7732-97A2F8A35F8D}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Oculus.VR.Editor.csproj">
-      <Project>{59CA6426-420B-14CF-7C48-B668C6E48572}</Project>      <Name>Oculus.VR.Editor</Name>    </ProjectReference>
+      <Project>{BD02AEDC-8C9A-256A-20F2-DD5634E7C258}</Project>      <Name>Oculus.VR.Editor</Name>    </ProjectReference>
     <ProjectReference Include="Oculus.VR.Scripts.Editor.csproj">
-      <Project>{1E108903-C4DC-73AF-5F5A-BE9B3DF97A01}</Project>      <Name>Oculus.VR.Scripts.Editor</Name>    </ProjectReference>
+      <Project>{58EF282D-1F02-3159-3AED-BF3789230446}</Project>      <Name>Oculus.VR.Scripts.Editor</Name>    </ProjectReference>
     <ProjectReference Include="Oculus.VR.csproj">
-      <Project>{D9183F73-18CB-5FB9-B435-931F5EBF58A0}</Project>      <Name>Oculus.VR</Name>    </ProjectReference>
+      <Project>{52113917-7285-C355-D4F0-6BEEDD71874C}</Project>      <Name>Oculus.VR</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
