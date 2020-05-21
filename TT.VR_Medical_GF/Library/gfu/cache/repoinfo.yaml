@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< Updated upstream
   lastUpdatedAtString: 2020-05-19T23:55:57.048-05:00
   initializedAtString: 2020-05-19T23:55:57.048-05:00
+=======
+  lastUpdatedAtString: 2020-05-20T22:36:41.469-05:00
+  initializedAtString: 2020-05-20T22:36:41.469-05:00
+>>>>>>> Stashed changes
   currentGitRemote:
     name: origin
     url: https://github.com/shikimx/TT-2019-A104_VR_Med.git
