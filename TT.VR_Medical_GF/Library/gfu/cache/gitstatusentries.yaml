@@ -13,54 +13,1397 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-05-21T00:03:12.467-05:00
-  initializedAtString: 2020-05-20T23:44:42.884-05:00
+  lastUpdatedAtString: 2020-06-13T22:38:34.091-05:00
+  initializedAtString: 2020-06-13T20:06:30.839-05:00
   entries:
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Materials\CubeMaterial.mat
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Materials\CubeMaterial.mat
-    projectPath: Assets\Oculus\VR\Materials\CubeMaterial.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0.meta
-    projectPath: Assets\Oculus\VR\Plugins\1.28.0.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels.meta
+    projectPath: Assets\FemaleAnatomyModels.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Android.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Android.meta
-    projectPath: Assets\Oculus\VR\Plugins\1.28.0\Android.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Win.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Win.meta
-    projectPath: Assets\Oculus\VR\Plugins\1.28.0\Win.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Win64.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Plugins\1.28.0\Win64.meta
-    projectPath: Assets\Oculus\VR\Plugins\1.28.0\Win64.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Assets\Oculus\VR\Scenes\Cubes.unity
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Oculus\VR\Scenes\Cubes.unity
-    projectPath: Assets\Oculus\VR\Scenes\Cubes.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TT.VR_Medical_GF\Assets\Plugins\Android.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Plugins\Android.meta
-    projectPath: Assets\Plugins\Android.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst\Feeding.fbx.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Assets\Plugins\Android\Assets.meta
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\Plugins\Android\Assets.meta
-    projectPath: Assets\Plugins\Android\Assets.meta
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Bst\Materials\Mat_Bst.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Gp_HtVvAv.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Heart2_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\LymphaticSystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Av.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Ht1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_CS_Ht2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Lp.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\Mt_Cs_Vs.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Materials\pasted__Mt_Cs_Av.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Cs\Py_Cs_Lp.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Gp_Dpm.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\Mat_Dpm.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Dpm\Materials\RespiratorySystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Gp_Ds.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\DigestiveSystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ds\Materials\Mat_Ds.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Eye.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Eye.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Eye.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Eye.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Eye.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Eye.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Materials\Breasts_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Materials\Female_eye_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Gp_Ns.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\lambert2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ns\Materials\Mat_Ns.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Av.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Brain.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Sk.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Materials\Mat_Mask_Vv.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Av.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Brain.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Sk.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Py_Mask\Py_Mask_Vv.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Gp_Rds.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\FemaleReproductiveSystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rds\Materials\Mat_Rds.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs\Gp_Rs.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Rs\Materials\RespiratorySystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk\Materials\Female_body_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Sk\Py_Sk.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Bn.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Gp_Ss_Ms.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_BdBn.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Ms.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Mt_Sku.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\MuscularSystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skeleton_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Ss\Materials\Skull_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Gp_Us.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Bld.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\Mat_Kdn.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\ReproductiveSystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Fbxes\Us\Materials\UrinarySystem_diffuse.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Manual.pdf
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Manual.pdf
+    projectPath: Assets\FemaleAnatomyModels\Manual.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Manual.pdf.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Manual.pdf.meta
+    projectPath: Assets\FemaleAnatomyModels\Manual.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials 1.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials
+      1.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials 1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials 1\DS.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials
+      1\DS.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials 1\DS.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials 1\DS.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials
+      1\DS.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials 1\DS.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials 1\Te_Ds_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials
+      1\Te_Ds_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Materials 1\Te_Ds_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials 1\Te_Ds_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials
+      1\Te_Ds_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials 1\Te_Ds_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Blue.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Blue.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Blue.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Blue.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Blue.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Blue.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Green.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Green.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Green.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Green.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Green.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Green.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Bn.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Ct.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Ct_Pn_Line.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Mat_Rgn_Line.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Red.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Red.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Red.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Red.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Red.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Red.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Sk.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Sk.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Sk.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Sk.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Sk.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Sk.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Yellow.mat
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Yellow.mat
+    projectPath: Assets\FemaleAnatomyModels\Materials\Yellow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Yellow.mat.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Materials\Yellow.mat.meta
+    projectPath: Assets\FemaleAnatomyModels\Materials\Yellow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs.meta
+    projectPath: Assets\FemaleAnatomyModels\Prefabs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab
+    projectPath: Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab.meta
+    projectPath: Assets\FemaleAnatomyModels\Prefabs\Md_Sw.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes.meta
+    projectPath: Assets\FemaleAnatomyModels\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_01.unity
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_01.unity
+    projectPath: Assets\FemaleAnatomyModels\Scenes\Example_01.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_01.unity.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_01.unity.meta
+    projectPath: Assets\FemaleAnatomyModels\Scenes\Example_01.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_02.unity
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_02.unity
+    projectPath: Assets\FemaleAnatomyModels\Scenes\Example_02.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_02.unity.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Scenes\Example_02.unity.meta
+    projectPath: Assets\FemaleAnatomyModels\Scenes\Example_02.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\154whumb.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\B747REM2.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Breasts_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\DigestiveSystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_body_specular.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_eye_diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_diffuse.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Female_hair_opacity.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\FemaleReproductiveSystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Heart_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Heart2_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\LymphaticSystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\MuscularSystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\ReproductiveSystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\RespiratorySystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bld.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bn_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Bst_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ht2_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Lp_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Ms_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rds_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Rs_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sk_Nml.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Dif.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\Te_Sku_Nml.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_bump.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg.meta
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg.meta
+    projectPath: Assets\FemaleAnatomyModels\Textures\Fmale\UrinarySystem_diffuse.jpg.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -76,12 +1419,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TT.VR_Medical_GF\Library\CrashedAssetImports.txt
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: TT.VR_Medical_GF\Library\CurrentLayout.dwlt
     fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\CurrentLayout.dwlt
     projectPath: Library\CurrentLayout.dwlt
@@ -94,6 +1431,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\expandedItems
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TT.VR_Medical_GF\Library\gfu\cache\gitlocks.yaml
     fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
@@ -118,102 +1461,1632 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TT.VR_Medical_GF\Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256
-    projectPath: Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256.info
-    projectPath: Library\metadata\23\23d9cafbbca976b4182c9a3d93f6c256.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9
-    projectPath: Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9.info
-    projectPath: Library\metadata\3e\3e242947a9755da42a2cb7446976c0d9.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb
-    projectPath: Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb.info
-    projectPath: Library\metadata\46\46fe53e98b741d748a5b24f4b7b69feb.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\48\481aaed108903ba4694515892234eae0
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\48\481aaed108903ba4694515892234eae0
-    projectPath: Library\metadata\48\481aaed108903ba4694515892234eae0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\48\481aaed108903ba4694515892234eae0.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\48\481aaed108903ba4694515892234eae0.info
-    projectPath: Library\metadata\48\481aaed108903ba4694515892234eae0.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\6d\6da7b64e89d1d5549b6b80878a720280.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6d\6da7b64e89d1d5549b6b80878a720280.info
-    projectPath: Library\metadata\6d\6da7b64e89d1d5549b6b80878a720280.info
+  - path: TT.VR_Medical_GF\Library\InspectorExpandedItems.asset
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TT.VR_Medical_GF\Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2
-    projectPath: Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2
+  - path: TT.VR_Medical_GF\Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb
+    projectPath: Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2.info
-    projectPath: Library\metadata\73\7370f328b2e70924d900bc9dc745bcc2.info
+  - path: TT.VR_Medical_GF\Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb.info
+    projectPath: Library\metadata\01\018dc1d31479a0649b6dbaf9f0c67cbb.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a
-    projectPath: Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a
+  - path: TT.VR_Medical_GF\Library\metadata\01\01b02ebf09b145042925aebf239e9120
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\01\01b02ebf09b145042925aebf239e9120
+    projectPath: Library\metadata\01\01b02ebf09b145042925aebf239e9120
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a.info
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a.info
-    projectPath: Library\metadata\ea\eae17f394b6d2c14982a29aec5bf4f5a.info
+  - path: TT.VR_Medical_GF\Library\metadata\01\01b02ebf09b145042925aebf239e9120.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\01\01b02ebf09b145042925aebf239e9120.info
+    projectPath: Library\metadata\01\01b02ebf09b145042925aebf239e9120.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TT.VR_Medical_GF\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: TT.VR_Medical_GF\Library\metadata\06\06050c2b1725ba541b689a33504d6716
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\06\06050c2b1725ba541b689a33504d6716
+    projectPath: Library\metadata\06\06050c2b1725ba541b689a33504d6716
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\06\06050c2b1725ba541b689a33504d6716.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\06\06050c2b1725ba541b689a33504d6716.info
+    projectPath: Library\metadata\06\06050c2b1725ba541b689a33504d6716.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a
+    projectPath: Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a.info
+    projectPath: Library\metadata\06\06eedaac5ee8b8445b66a683f3c3205a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\07\0729670314e9e7e4d87147b60b89a761
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\07\0729670314e9e7e4d87147b60b89a761
+    projectPath: Library\metadata\07\0729670314e9e7e4d87147b60b89a761
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\07\0729670314e9e7e4d87147b60b89a761.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\07\0729670314e9e7e4d87147b60b89a761.info
+    projectPath: Library\metadata\07\0729670314e9e7e4d87147b60b89a761.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5
+    projectPath: Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5.info
+    projectPath: Library\metadata\0b\0b52a254a236a0046bb988d1bbbf47a5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\10\10d39d8603cdb6c4e84749df9de32241
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\10\10d39d8603cdb6c4e84749df9de32241
+    projectPath: Library\metadata\10\10d39d8603cdb6c4e84749df9de32241
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\10\10d39d8603cdb6c4e84749df9de32241.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\10\10d39d8603cdb6c4e84749df9de32241.info
+    projectPath: Library\metadata\10\10d39d8603cdb6c4e84749df9de32241.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\14\14605dcde7434014eb0eca275c0e6914
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\14\14605dcde7434014eb0eca275c0e6914
+    projectPath: Library\metadata\14\14605dcde7434014eb0eca275c0e6914
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\14\14605dcde7434014eb0eca275c0e6914.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\14\14605dcde7434014eb0eca275c0e6914.info
+    projectPath: Library\metadata\14\14605dcde7434014eb0eca275c0e6914.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\14\14b150646d674e341b23bf462fd7996d
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\14\14b150646d674e341b23bf462fd7996d
+    projectPath: Library\metadata\14\14b150646d674e341b23bf462fd7996d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\14\14b150646d674e341b23bf462fd7996d.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\14\14b150646d674e341b23bf462fd7996d.info
+    projectPath: Library\metadata\14\14b150646d674e341b23bf462fd7996d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43
+    projectPath: Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43.info
+    projectPath: Library\metadata\1a\1a30ec59aec3e9e42ae762db2d024d43.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9
+    projectPath: Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9.info
+    projectPath: Library\metadata\1e\1e62ee218aad0c648a0f708ab03e25a9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\20\20de6150c66b256459516953db8ebf42
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\20\20de6150c66b256459516953db8ebf42
+    projectPath: Library\metadata\20\20de6150c66b256459516953db8ebf42
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\20\20de6150c66b256459516953db8ebf42.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\20\20de6150c66b256459516953db8ebf42.info
+    projectPath: Library\metadata\20\20de6150c66b256459516953db8ebf42.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\20\20f0bce993f901d408c751e7de8774ed
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\20\20f0bce993f901d408c751e7de8774ed
+    projectPath: Library\metadata\20\20f0bce993f901d408c751e7de8774ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\20\20f0bce993f901d408c751e7de8774ed.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\20\20f0bce993f901d408c751e7de8774ed.info
+    projectPath: Library\metadata\20\20f0bce993f901d408c751e7de8774ed.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e
+    projectPath: Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e.info
+    projectPath: Library\metadata\24\24211a1c6e9794a40bc34e545565aa8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50
+    projectPath: Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50.info
+    projectPath: Library\metadata\25\25d65e76498a19441b38aaef5cfc5a50.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\26\2602d255fde71ec45a8dca85e267055f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\26\2602d255fde71ec45a8dca85e267055f
+    projectPath: Library\metadata\26\2602d255fde71ec45a8dca85e267055f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\26\2602d255fde71ec45a8dca85e267055f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\26\2602d255fde71ec45a8dca85e267055f.info
+    projectPath: Library\metadata\26\2602d255fde71ec45a8dca85e267055f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\27\27ebe168a8588a6469956e9562bc9fde
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\27\27ebe168a8588a6469956e9562bc9fde
+    projectPath: Library\metadata\27\27ebe168a8588a6469956e9562bc9fde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\27\27ebe168a8588a6469956e9562bc9fde.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\27\27ebe168a8588a6469956e9562bc9fde.info
+    projectPath: Library\metadata\27\27ebe168a8588a6469956e9562bc9fde.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f
+    projectPath: Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f.info
+    projectPath: Library\metadata\2a\2a1b6a3248858b34cae9b589070d362f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3
+    projectPath: Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3.info
+    projectPath: Library\metadata\2a\2a2dfbadffc435142b4df943808c80e3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb
+    projectPath: Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb.info
+    projectPath: Library\metadata\2c\2c874cd1def15dc4da0457322995a6cb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5
+    projectPath: Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5.info
+    projectPath: Library\metadata\2d\2d1cbe287e407c34d96c5eae3a7990c5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2d\2de712fea3c16a0458288798c2c7887e
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2d\2de712fea3c16a0458288798c2c7887e
+    projectPath: Library\metadata\2d\2de712fea3c16a0458288798c2c7887e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\2d\2de712fea3c16a0458288798c2c7887e.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\2d\2de712fea3c16a0458288798c2c7887e.info
+    projectPath: Library\metadata\2d\2de712fea3c16a0458288798c2c7887e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\30\301c101ebbc42194fbeea9c408d73b21
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\30\301c101ebbc42194fbeea9c408d73b21
+    projectPath: Library\metadata\30\301c101ebbc42194fbeea9c408d73b21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\30\301c101ebbc42194fbeea9c408d73b21.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\30\301c101ebbc42194fbeea9c408d73b21.info
+    projectPath: Library\metadata\30\301c101ebbc42194fbeea9c408d73b21.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f
+    projectPath: Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f.info
+    projectPath: Library\metadata\30\30a383eeb75c79c43acf2e9e79cb9b1f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\33\3313264c12fe54644ba585d24c523a9d
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\33\3313264c12fe54644ba585d24c523a9d
+    projectPath: Library\metadata\33\3313264c12fe54644ba585d24c523a9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\33\3313264c12fe54644ba585d24c523a9d.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\33\3313264c12fe54644ba585d24c523a9d.info
+    projectPath: Library\metadata\33\3313264c12fe54644ba585d24c523a9d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c
+    projectPath: Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c.info
+    projectPath: Library\metadata\34\340b5c2691ed0a1488372a1c4323b12c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\342ff9d073495e34e865fcf781fee0bc
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\342ff9d073495e34e865fcf781fee0bc
+    projectPath: Library\metadata\34\342ff9d073495e34e865fcf781fee0bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\342ff9d073495e34e865fcf781fee0bc.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\342ff9d073495e34e865fcf781fee0bc.info
+    projectPath: Library\metadata\34\342ff9d073495e34e865fcf781fee0bc.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e
+    projectPath: Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e.info
+    projectPath: Library\metadata\34\34cef9e4ba1ee47419bcfad9860b739e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\35\35526262e4da5364a9f4a8457a52adb2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\35\35526262e4da5364a9f4a8457a52adb2
+    projectPath: Library\metadata\35\35526262e4da5364a9f4a8457a52adb2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\35\35526262e4da5364a9f4a8457a52adb2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\35\35526262e4da5364a9f4a8457a52adb2.info
+    projectPath: Library\metadata\35\35526262e4da5364a9f4a8457a52adb2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80
+    projectPath: Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80.info
+    projectPath: Library\metadata\35\35f0e83dfc5fc3a42815cf4cb2a29f80.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\37\3705998ec4885754cb3a13c8c44e38db
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\37\3705998ec4885754cb3a13c8c44e38db
+    projectPath: Library\metadata\37\3705998ec4885754cb3a13c8c44e38db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\37\3705998ec4885754cb3a13c8c44e38db.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\37\3705998ec4885754cb3a13c8c44e38db.info
+    projectPath: Library\metadata\37\3705998ec4885754cb3a13c8c44e38db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\38\38bd9bb7993471645b883701cbfea1bf
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\38\38bd9bb7993471645b883701cbfea1bf
+    projectPath: Library\metadata\38\38bd9bb7993471645b883701cbfea1bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\38\38bd9bb7993471645b883701cbfea1bf.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\38\38bd9bb7993471645b883701cbfea1bf.info
+    projectPath: Library\metadata\38\38bd9bb7993471645b883701cbfea1bf.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf
+    projectPath: Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf.info
+    projectPath: Library\metadata\3b\3b31a11e4c4902a48986062b8e4c8cbf.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f
+    projectPath: Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f.info
+    projectPath: Library\metadata\3c\3c600a794c0f04048976a0743ee9a00f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d
+    projectPath: Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d.info
+    projectPath: Library\metadata\3e\3e04094889bc2284686c3aa6b4f9e10d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e
+    projectPath: Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e.info
+    projectPath: Library\metadata\40\40a716bf911c44449a3bf3e27519cb6e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387
+    projectPath: Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387.info
+    projectPath: Library\metadata\40\40c54699b8f8a9042a66b3c8b0c56387.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\42\4240b547c329fdb4383cea00154ce6bd
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\42\4240b547c329fdb4383cea00154ce6bd
+    projectPath: Library\metadata\42\4240b547c329fdb4383cea00154ce6bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\42\4240b547c329fdb4383cea00154ce6bd.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\42\4240b547c329fdb4383cea00154ce6bd.info
+    projectPath: Library\metadata\42\4240b547c329fdb4383cea00154ce6bd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\466468e53904eeb459dd23cd069b47df
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\466468e53904eeb459dd23cd069b47df
+    projectPath: Library\metadata\46\466468e53904eeb459dd23cd069b47df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\466468e53904eeb459dd23cd069b47df.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\466468e53904eeb459dd23cd069b47df.info
+    projectPath: Library\metadata\46\466468e53904eeb459dd23cd069b47df.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69
+    projectPath: Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69.info
+    projectPath: Library\metadata\46\46d24a2ff57588a488bb8c3b51ce8b69.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\46e900c33e5cc64479074de46edfe5dd
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46e900c33e5cc64479074de46edfe5dd
+    projectPath: Library\metadata\46\46e900c33e5cc64479074de46edfe5dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\46\46e900c33e5cc64479074de46edfe5dd.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\46\46e900c33e5cc64479074de46edfe5dd.info
+    projectPath: Library\metadata\46\46e900c33e5cc64479074de46edfe5dd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2
+    projectPath: Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2.info
+    projectPath: Library\metadata\54\54807c97a1001ff46b1987bf2a71e4e2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\5514d5765c4893e43a71d31c75df9948
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\5514d5765c4893e43a71d31c75df9948
+    projectPath: Library\metadata\55\5514d5765c4893e43a71d31c75df9948
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\5514d5765c4893e43a71d31c75df9948.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\5514d5765c4893e43a71d31c75df9948.info
+    projectPath: Library\metadata\55\5514d5765c4893e43a71d31c75df9948.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\5582a2b052f988440a60499c66625a48
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\5582a2b052f988440a60499c66625a48
+    projectPath: Library\metadata\55\5582a2b052f988440a60499c66625a48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\5582a2b052f988440a60499c66625a48.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\5582a2b052f988440a60499c66625a48.info
+    projectPath: Library\metadata\55\5582a2b052f988440a60499c66625a48.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\55a93547f135d79458694bdd3b156056
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\55a93547f135d79458694bdd3b156056
+    projectPath: Library\metadata\55\55a93547f135d79458694bdd3b156056
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\55\55a93547f135d79458694bdd3b156056.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\55\55a93547f135d79458694bdd3b156056.info
+    projectPath: Library\metadata\55\55a93547f135d79458694bdd3b156056.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\57\57917ba4179321a46a1725eb29094f38
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\57\57917ba4179321a46a1725eb29094f38
+    projectPath: Library\metadata\57\57917ba4179321a46a1725eb29094f38
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\57\57917ba4179321a46a1725eb29094f38.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\57\57917ba4179321a46a1725eb29094f38.info
+    projectPath: Library\metadata\57\57917ba4179321a46a1725eb29094f38.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049
+    projectPath: Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049.info
+    projectPath: Library\metadata\5c\5c05ff9c79385ab44b10e8c13362b049.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5c\5c27108b6992349419ec0904a65c81ed
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5c\5c27108b6992349419ec0904a65c81ed
+    projectPath: Library\metadata\5c\5c27108b6992349419ec0904a65c81ed
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5c\5c27108b6992349419ec0904a65c81ed.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5c\5c27108b6992349419ec0904a65c81ed.info
+    projectPath: Library\metadata\5c\5c27108b6992349419ec0904a65c81ed.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5d\5d6efe954700abe4dac7056539f3d500
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5d\5d6efe954700abe4dac7056539f3d500
+    projectPath: Library\metadata\5d\5d6efe954700abe4dac7056539f3d500
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\5d\5d6efe954700abe4dac7056539f3d500.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\5d\5d6efe954700abe4dac7056539f3d500.info
+    projectPath: Library\metadata\5d\5d6efe954700abe4dac7056539f3d500.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\61\6109eb8cab00c9c44940d053cef90146
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\61\6109eb8cab00c9c44940d053cef90146
+    projectPath: Library\metadata\61\6109eb8cab00c9c44940d053cef90146
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\61\6109eb8cab00c9c44940d053cef90146.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\61\6109eb8cab00c9c44940d053cef90146.info
+    projectPath: Library\metadata\61\6109eb8cab00c9c44940d053cef90146.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f
+    projectPath: Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f.info
+    projectPath: Library\metadata\63\6363e236b3b30e64cb59ec6b5e6e0e2f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\66\66489c1384afe0e469ba2950f9565508
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\66\66489c1384afe0e469ba2950f9565508
+    projectPath: Library\metadata\66\66489c1384afe0e469ba2950f9565508
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\66\66489c1384afe0e469ba2950f9565508.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\66\66489c1384afe0e469ba2950f9565508.info
+    projectPath: Library\metadata\66\66489c1384afe0e469ba2950f9565508.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2
+    projectPath: Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2.info
+    projectPath: Library\metadata\68\68bbc252ca4bf7e48ab1f8dfcac180a2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426
+    projectPath: Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426.info
+    projectPath: Library\metadata\6a\6a8b5cbde8bebf34d9f74aabf2506426.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a
+    projectPath: Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a.info
+    projectPath: Library\metadata\6b\6bafbf362cb06654aac204d2b3578b7a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c
+    projectPath: Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c.info
+    projectPath: Library\metadata\6d\6d7f119891434034ca039c8c08c7d73c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6f\6fd57ede78cdac146867a1da899592ce
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6f\6fd57ede78cdac146867a1da899592ce
+    projectPath: Library\metadata\6f\6fd57ede78cdac146867a1da899592ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\6f\6fd57ede78cdac146867a1da899592ce.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\6f\6fd57ede78cdac146867a1da899592ce.info
+    projectPath: Library\metadata\6f\6fd57ede78cdac146867a1da899592ce.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\70\7026c7445722d5b4ea22acd96694249b
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\70\7026c7445722d5b4ea22acd96694249b
+    projectPath: Library\metadata\70\7026c7445722d5b4ea22acd96694249b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\70\7026c7445722d5b4ea22acd96694249b.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\70\7026c7445722d5b4ea22acd96694249b.info
+    projectPath: Library\metadata\70\7026c7445722d5b4ea22acd96694249b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef
+    projectPath: Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef.info
+    projectPath: Library\metadata\71\71d7a6d4b68d60a4b8e3f759637947ef.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a
+    projectPath: Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a.info
+    projectPath: Library\metadata\72\725db4b24bc22a34fb7b867ef0e7b24a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93
+    projectPath: Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93.info
+    projectPath: Library\metadata\72\7277c5441ad8d464a9edda9c7c79ec93.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66
+    projectPath: Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66.info
+    projectPath: Library\metadata\73\73e05e9b3bd52534b90176e26a8b9e66.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\78\78422f013299fd74698f965c43b24c75
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\78\78422f013299fd74698f965c43b24c75
+    projectPath: Library\metadata\78\78422f013299fd74698f965c43b24c75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\78\78422f013299fd74698f965c43b24c75.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\78\78422f013299fd74698f965c43b24c75.info
+    projectPath: Library\metadata\78\78422f013299fd74698f965c43b24c75.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\79\79830fb6edae02349840a573d63f727a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\79\79830fb6edae02349840a573d63f727a
+    projectPath: Library\metadata\79\79830fb6edae02349840a573d63f727a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\79\79830fb6edae02349840a573d63f727a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\79\79830fb6edae02349840a573d63f727a.info
+    projectPath: Library\metadata\79\79830fb6edae02349840a573d63f727a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7a\7a77492a73918d644a7250da6fe665d7
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7a\7a77492a73918d644a7250da6fe665d7
+    projectPath: Library\metadata\7a\7a77492a73918d644a7250da6fe665d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7a\7a77492a73918d644a7250da6fe665d7.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7a\7a77492a73918d644a7250da6fe665d7.info
+    projectPath: Library\metadata\7a\7a77492a73918d644a7250da6fe665d7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2
+    projectPath: Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2.info
+    projectPath: Library\metadata\7b\7b046ee68bd6d4f40ae804a7f42f4cc2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57
+    projectPath: Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57.info
+    projectPath: Library\metadata\7f\7f2c1470cde12744a8886272cbdbef57.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\81\81f92859497ab7f40a349d03e2a2f854
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\81\81f92859497ab7f40a349d03e2a2f854
+    projectPath: Library\metadata\81\81f92859497ab7f40a349d03e2a2f854
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\81\81f92859497ab7f40a349d03e2a2f854.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\81\81f92859497ab7f40a349d03e2a2f854.info
+    projectPath: Library\metadata\81\81f92859497ab7f40a349d03e2a2f854.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\83\83b18afbfb594934ba13cf3481920b3a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\83\83b18afbfb594934ba13cf3481920b3a
+    projectPath: Library\metadata\83\83b18afbfb594934ba13cf3481920b3a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\83\83b18afbfb594934ba13cf3481920b3a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\83\83b18afbfb594934ba13cf3481920b3a.info
+    projectPath: Library\metadata\83\83b18afbfb594934ba13cf3481920b3a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\85\850330cb5839dbc479090fbd9f2661ce
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\85\850330cb5839dbc479090fbd9f2661ce
+    projectPath: Library\metadata\85\850330cb5839dbc479090fbd9f2661ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\85\850330cb5839dbc479090fbd9f2661ce.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\85\850330cb5839dbc479090fbd9f2661ce.info
+    projectPath: Library\metadata\85\850330cb5839dbc479090fbd9f2661ce.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\85\85158394fe8db694382accdf3ac163d7
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\85\85158394fe8db694382accdf3ac163d7
+    projectPath: Library\metadata\85\85158394fe8db694382accdf3ac163d7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\85\85158394fe8db694382accdf3ac163d7.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\85\85158394fe8db694382accdf3ac163d7.info
+    projectPath: Library\metadata\85\85158394fe8db694382accdf3ac163d7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb
+    projectPath: Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb.info
+    projectPath: Library\metadata\86\8662ffe2cf3f5f24da3558271103eaeb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d
+    projectPath: Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d.info
+    projectPath: Library\metadata\87\87f51ad9f8d71e0419eebaebddc5db6d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1
+    projectPath: Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1.info
+    projectPath: Library\metadata\8a\8a1afe641b1091d48bd6820c80d2afe1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c
+    projectPath: Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c.info
+    projectPath: Library\metadata\8a\8ae7523678b3db146a93c6e8d763823c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8c\8c9ca936104074e459485ba36ab186d3
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8c\8c9ca936104074e459485ba36ab186d3
+    projectPath: Library\metadata\8c\8c9ca936104074e459485ba36ab186d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\8c\8c9ca936104074e459485ba36ab186d3.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\8c\8c9ca936104074e459485ba36ab186d3.info
+    projectPath: Library\metadata\8c\8c9ca936104074e459485ba36ab186d3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4
+    projectPath: Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4.info
+    projectPath: Library\metadata\91\91b7ec0fbcf6c5c43ad9dabdca482bb4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a
+    projectPath: Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a.info
+    projectPath: Library\metadata\92\9257d6b7e69934b4aa87a0ef60a5e51a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\96\9671409ca7c299940a2a67518dfd5abd
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\96\9671409ca7c299940a2a67518dfd5abd
+    projectPath: Library\metadata\96\9671409ca7c299940a2a67518dfd5abd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\96\9671409ca7c299940a2a67518dfd5abd.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\96\9671409ca7c299940a2a67518dfd5abd.info
+    projectPath: Library\metadata\96\9671409ca7c299940a2a67518dfd5abd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f
+    projectPath: Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f.info
+    projectPath: Library\metadata\97\97a62ee00a398b14a9691165e6bfcc9f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c
+    projectPath: Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c.info
+    projectPath: Library\metadata\9a\9ae77207fd8babb4cac40d02bd614e3c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac
+    projectPath: Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac.info
+    projectPath: Library\metadata\9b\9b3dfb657e9ee314689135b53dd3f4ac.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9f\9f669665b702ef044b7b6ccad5407228
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9f\9f669665b702ef044b7b6ccad5407228
+    projectPath: Library\metadata\9f\9f669665b702ef044b7b6ccad5407228
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\9f\9f669665b702ef044b7b6ccad5407228.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\9f\9f669665b702ef044b7b6ccad5407228.info
+    projectPath: Library\metadata\9f\9f669665b702ef044b7b6ccad5407228.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5
+    projectPath: Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5.info
+    projectPath: Library\metadata\a3\a39a8cf5f861d994fa3f86d4f2ed9dd5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a5\a575ed0288528b14890581a9831959a6
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a5\a575ed0288528b14890581a9831959a6
+    projectPath: Library\metadata\a5\a575ed0288528b14890581a9831959a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a5\a575ed0288528b14890581a9831959a6.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a5\a575ed0288528b14890581a9831959a6.info
+    projectPath: Library\metadata\a5\a575ed0288528b14890581a9831959a6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638
+    projectPath: Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638.info
+    projectPath: Library\metadata\a7\a70b2ab0612370b4a848dc3b32236638.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e
+    projectPath: Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e.info
+    projectPath: Library\metadata\a9\a90dc55c0c129b9408c25992e3bbdb0e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ac\acabe04a411421d4f865330bd363ee55
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ac\acabe04a411421d4f865330bd363ee55
+    projectPath: Library\metadata\ac\acabe04a411421d4f865330bd363ee55
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ac\acabe04a411421d4f865330bd363ee55.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ac\acabe04a411421d4f865330bd363ee55.info
+    projectPath: Library\metadata\ac\acabe04a411421d4f865330bd363ee55.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe
+    projectPath: Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe.info
+    projectPath: Library\metadata\ae\ae896be0c7b3bf74f8e3795f965cdafe.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750
+    projectPath: Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750.info
+    projectPath: Library\metadata\b1\b1c2c13ad5db8144881690b9c01f1750.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5
+    projectPath: Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5.info
+    projectPath: Library\metadata\b5\b57b7b2d9ca19c244b1d78ee1dd6bdf5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ba\ba98ce979204187408835a09257c95df
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ba\ba98ce979204187408835a09257c95df
+    projectPath: Library\metadata\ba\ba98ce979204187408835a09257c95df
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ba\ba98ce979204187408835a09257c95df.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ba\ba98ce979204187408835a09257c95df.info
+    projectPath: Library\metadata\ba\ba98ce979204187408835a09257c95df.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72
+    projectPath: Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72.info
+    projectPath: Library\metadata\bc\bc3f1b9136e2c554588de86f33559b72.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b
+    projectPath: Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b.info
+    projectPath: Library\metadata\bc\bc97edcaad4cc1245aac6a132c4cb26b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a
+    projectPath: Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a.info
+    projectPath: Library\metadata\c0\c075756c3d20f3e448cde8e5bf36584a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855
+    projectPath: Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855.info
+    projectPath: Library\metadata\c3\c3ef8b4f18be19a46b396cedb0983855.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de
+    projectPath: Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de.info
+    projectPath: Library\metadata\c5\c5b723a4a2dce19419e672e113c7f7de.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a
+    projectPath: Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a.info
+    projectPath: Library\metadata\c6\c635a9de40e1d124bbe05c750dd28c6a.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129
+    projectPath: Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129.info
+    projectPath: Library\metadata\c9\c9c46062382de20409dc5f3dbb49d129.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886
+    projectPath: Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886.info
+    projectPath: Library\metadata\c9\c9d0eae9fdf1600499040f858c51a886.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ca\ca93a467cca43df42adc34bc6a894619
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ca\ca93a467cca43df42adc34bc6a894619
+    projectPath: Library\metadata\ca\ca93a467cca43df42adc34bc6a894619
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ca\ca93a467cca43df42adc34bc6a894619.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ca\ca93a467cca43df42adc34bc6a894619.info
+    projectPath: Library\metadata\ca\ca93a467cca43df42adc34bc6a894619.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413
+    projectPath: Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413.info
+    projectPath: Library\metadata\ca\cacc4cc8dd7499242999b6109fce6413.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0
+    projectPath: Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0.info
+    projectPath: Library\metadata\cb\cb87fa4f9c81da749bd1712afbdb26d0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2
+    projectPath: Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2.info
+    projectPath: Library\metadata\cb\cb8b1d4b1309fd74680f3fe15699a9c2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3
+    projectPath: Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3.info
+    projectPath: Library\metadata\cf\cf24fe937bb7ead4a824d8a4e1ee6ec3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f
+    projectPath: Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f.info
+    projectPath: Library\metadata\cf\cf4c727c7675a58428997b62d1c3394f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d2\d2805c702a8df89479b4cd8744447424
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d2\d2805c702a8df89479b4cd8744447424
+    projectPath: Library\metadata\d2\d2805c702a8df89479b4cd8744447424
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d2\d2805c702a8df89479b4cd8744447424.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d2\d2805c702a8df89479b4cd8744447424.info
+    projectPath: Library\metadata\d2\d2805c702a8df89479b4cd8744447424.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d3\d3975edef5332534189357a5d8306437
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d3\d3975edef5332534189357a5d8306437
+    projectPath: Library\metadata\d3\d3975edef5332534189357a5d8306437
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d3\d3975edef5332534189357a5d8306437.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d3\d3975edef5332534189357a5d8306437.info
+    projectPath: Library\metadata\d3\d3975edef5332534189357a5d8306437.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19
+    projectPath: Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19.info
+    projectPath: Library\metadata\d5\d543aea939a21c84caf7b4a1ae116a19.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b
+    projectPath: Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b.info
+    projectPath: Library\metadata\d6\d6b30f33318f23a4aa41e79bc41cb71b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d6\d6e777982ecdb124d99701e644a442f2
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d6\d6e777982ecdb124d99701e644a442f2
+    projectPath: Library\metadata\d6\d6e777982ecdb124d99701e644a442f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d6\d6e777982ecdb124d99701e644a442f2.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d6\d6e777982ecdb124d99701e644a442f2.info
+    projectPath: Library\metadata\d6\d6e777982ecdb124d99701e644a442f2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3
+    projectPath: Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3.info
+    projectPath: Library\metadata\d7\d7b483369ee395d4dbc14a23b41c43a3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749
+    projectPath: Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749.info
+    projectPath: Library\metadata\dc\dc7bc86f73d0d2a47b0782c7a7222749.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8
+    projectPath: Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8.info
+    projectPath: Library\metadata\dc\dccce6a66790b60488f379c6281ce2c8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c
+    projectPath: Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c.info
+    projectPath: Library\metadata\dd\dd61704cbe9f6c14ba7498ef2b365a8c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\de\de6d36fd246f158419ca19f1e65df690
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\de\de6d36fd246f158419ca19f1e65df690
+    projectPath: Library\metadata\de\de6d36fd246f158419ca19f1e65df690
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\de\de6d36fd246f158419ca19f1e65df690.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\de\de6d36fd246f158419ca19f1e65df690.info
+    projectPath: Library\metadata\de\de6d36fd246f158419ca19f1e65df690.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\df\dfdec91207b24d4419c709d2c264171c
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\df\dfdec91207b24d4419c709d2c264171c
+    projectPath: Library\metadata\df\dfdec91207b24d4419c709d2c264171c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\df\dfdec91207b24d4419c709d2c264171c.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\df\dfdec91207b24d4419c709d2c264171c.info
+    projectPath: Library\metadata\df\dfdec91207b24d4419c709d2c264171c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694
+    projectPath: Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694.info
+    projectPath: Library\metadata\e0\e09cc67f4876d0943962b6b8fd08f694.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef
+    projectPath: Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef.info
+    projectPath: Library\metadata\e1\e182b60cc9d02004ca0cc7dfa94da8ef.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424
+    projectPath: Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424.info
+    projectPath: Library\metadata\e2\e2eb4c1f58e194f46a05b4709fd6a424.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e8\e81915a2276eb5046982555ef3e36eab
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e8\e81915a2276eb5046982555ef3e36eab
+    projectPath: Library\metadata\e8\e81915a2276eb5046982555ef3e36eab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e8\e81915a2276eb5046982555ef3e36eab.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e8\e81915a2276eb5046982555ef3e36eab.info
+    projectPath: Library\metadata\e8\e81915a2276eb5046982555ef3e36eab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e9\e983350dcc470614084159cf373eebfa
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e9\e983350dcc470614084159cf373eebfa
+    projectPath: Library\metadata\e9\e983350dcc470614084159cf373eebfa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\e9\e983350dcc470614084159cf373eebfa.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\e9\e983350dcc470614084159cf373eebfa.info
+    projectPath: Library\metadata\e9\e983350dcc470614084159cf373eebfa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f
+    projectPath: Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f.info
+    projectPath: Library\metadata\f5\f5c1ae08390f9dc4fae0b48b19f97b8f.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b
+    projectPath: Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b.info
+    projectPath: Library\metadata\f5\f5ca8fc03e3b3e3439308f141c6bbb2b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f8\f8b8218a6954c72458e89332266d3d99
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f8\f8b8218a6954c72458e89332266d3d99
+    projectPath: Library\metadata\f8\f8b8218a6954c72458e89332266d3d99
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f8\f8b8218a6954c72458e89332266d3d99.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f8\f8b8218a6954c72458e89332266d3d99.info
+    projectPath: Library\metadata\f8\f8b8218a6954c72458e89332266d3d99.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516
+    projectPath: Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516.info
+    projectPath: Library\metadata\f9\f91aa09fe39984e43ac661bf979ab516.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb
+    projectPath: Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb.info
+    projectPath: Library\metadata\f9\f9cb235ffa7f0b74ca89af9ce06c03bb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770
+    projectPath: Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770.info
+    projectPath: Library\metadata\fc\fc7548772b3cf3046ab773feb55b5770.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935
+    projectPath: Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935.info
+    projectPath: Library\metadata\fd\fd1716993ad438945b3f2cc9ae954935.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7
+    projectPath: Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7.info
+    projectPath: Library\metadata\ff\ff38648e6d3afc343b7359b2be6e9ad7.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ff\ff65e9076101073429745f18739d1613
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ff\ff65e9076101073429745f18739d1613
+    projectPath: Library\metadata\ff\ff65e9076101073429745f18739d1613
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\metadata\ff\ff65e9076101073429745f18739d1613.info
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\metadata\ff\ff65e9076101073429745f18739d1613.info
+    projectPath: Library\metadata\ff\ff65e9076101073429745f18739d1613.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\3\35239995259a23684fdf75beba337de5.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\3\35239995259a23684fdf75beba337de5.bin
+    projectPath: Library\ShaderCache\3\35239995259a23684fdf75beba337de5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\4\4215ce3d3eddaab9738a755dc139cef7.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\4\4215ce3d3eddaab9738a755dc139cef7.bin
+    projectPath: Library\ShaderCache\4\4215ce3d3eddaab9738a755dc139cef7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\8\850f5c7c26131baa4b678817b5afb3ab.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\8\850f5c7c26131baa4b678817b5afb3ab.bin
+    projectPath: Library\ShaderCache\8\850f5c7c26131baa4b678817b5afb3ab.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\8\8610e0f514dae8eab8d6dfd9503584da.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\8\8610e0f514dae8eab8d6dfd9503584da.bin
+    projectPath: Library\ShaderCache\8\8610e0f514dae8eab8d6dfd9503584da.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\c\c7cd8406e75f1d21a10611499d762643.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\c\c7cd8406e75f1d21a10611499d762643.bin
+    projectPath: Library\ShaderCache\c\c7cd8406e75f1d21a10611499d762643.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TT.VR_Medical_GF\Library\ShaderCache\e\ee2774df7a165aa275fe544e5995331b.bin
+    fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\ShaderCache\e\ee2774df7a165aa275fe544e5995331b.bin
+    projectPath: Library\ShaderCache\e\ee2774df7a165aa275fe544e5995331b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TT.VR_Medical_GF\Library\StateCache\Hierarchy\ef9165-mainStage.json
     fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\StateCache\Hierarchy\ef9165-mainStage.json
     projectPath: Library\StateCache\Hierarchy\ef9165-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TT.VR_Medical_GF\Library\StateCache\SceneView\dcd31e-mainStage.json
     fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\Library\StateCache\SceneView\dcd31e-mainStage.json
     projectPath: Library\StateCache\SceneView\dcd31e-mainStage.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TT.VR_Medical_GF\ProjectSettings\QualitySettings.asset
     fullPath: F:\Git\TT-2019-A104_VR_Med\TT.VR_Medical_GF\ProjectSettings\QualitySettings.asset
     projectPath: ProjectSettings\QualitySettings.asset
